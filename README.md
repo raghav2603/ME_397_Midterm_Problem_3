@@ -10,4 +10,6 @@ Ritvik concurs with Raghav and Sai! - Ritvik Pai
 Edited Sai's comment
 RAGHAV SARATHY
 
-Thanks for creating the repository, Raghav! 
+Thanks for creating the repository, Raghav!
+
+This will be the sixth and final update! - Ritvik Pai
